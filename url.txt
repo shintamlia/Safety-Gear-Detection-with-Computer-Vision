@@ -1,0 +1,5 @@
+Hugging Face: 
+https://huggingface.co/spaces/shintamlia/Is_an_employee_wearing_safety_gear
+
+Kaggle: 
+https://www.kaggle.com/datasets/khananikrahman/is-an-employee-wearing-safety-gear
